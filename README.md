@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 * 🌍  I'm based in United States
-* 🧠  I'm learning about how to use APIs
+* 🧠  I'm learning python and some C
 * 🤝  I'm open to collaborating on beginner projects
 
 <a href="https://www.twitter.com/idbnstra" target="_blank" rel="noreferrer"><img

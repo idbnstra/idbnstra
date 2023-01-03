@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in United States
 * 🧠  I'm learning python and some C (and YAML and MarkDown if those count)
 * 🤝  I'm open to collaborating on beginner projects
+- My favorite tools are:
+  - Visual Studio Code
+  - Obsidian
+  - 
 
 <a href="https://www.twitter.com/idbnstra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/idbnstra?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"

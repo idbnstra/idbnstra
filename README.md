@@ -1,12 +1,9 @@
-Hi, My name is Isaac Bandstra
+Hi, my name is Isaac Bandstra
 ======================================================================================================================================
 
 * 🌍  I'm based in United States
-* 🧠  I'm learning python, java, and some C (and YAML and MarkDown if those count)
+* 🧠  I'm learning python, java, and some C
 * 🤝  I'm open to collaborating on beginner projects
-- My favorite tools are:
-  - Visual Studio Code
-  - Obsidian
 
 
 ### Skills
